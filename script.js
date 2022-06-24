@@ -1,6 +1,5 @@
 // Scripting for Basic Calculator
 // Start with functions
-console.log(Start)
 function addition(num1, num2){
     return num1+num2;
 }
@@ -38,4 +37,3 @@ else if (choice === 4){
 else{
     console.log('Wrong input');
 }
-return end
